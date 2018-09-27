@@ -1,0 +1,47 @@
+body{
+    color: #3c3c3c;
+}
+#crystalTitle{
+    color: white;
+    background: #3c3c3c;
+    padding: 10px;
+    border: 3px solid #af473c;
+    margin: 5px 0;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+.btn{
+    border: 5px solid black;
+    margin: 10px;
+}
+#instructions{
+    color: white;
+    background: #3c3c3c;
+    padding: 10px;
+    border: 3px solid #af473c;
+    margin-bottom: 5px;
+}
+#matchScore, .counter{
+    background: white;
+    border: 2px black solid;
+}
+#matchScore{
+    margin-right: 5px;
+}
+.totalScore{
+    background: #9de099;
+    color: white;
+}
+#scoreBoard{
+    background: #626e60;
+    width: 400px;
+    height: 200px;
+    color: white;
+}
+.totalScore, #scoreBoard{
+    border: 2px solid black;
+    margin: 0;
+}
